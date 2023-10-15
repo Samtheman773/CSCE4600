@@ -51,3 +51,6 @@ A GitHub link to your project which includes:
 
 - `README.md` <- describes anything needed to build (optional)
 - `main.go` <- your scheduler
+
+<img width="668" alt="Screenshot 2023-10-15 at 1 53 07 PM" src="https://github.com/Samtheman773/CSCE4600/assets/34013376/5fe1ee2a-c079-4df9-904c-c0bf7b50c223">
+
